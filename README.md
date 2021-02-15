@@ -169,6 +169,10 @@ Maven Repositories:
 settings.xml file
 Maven Security settings.
 
+Maven install custom Jar
+mvn install:install-file -Dfile=<Fle> -DgroupId= -DartifactId= -Dversion= -Dpackaging=
+
+
 
 
 
