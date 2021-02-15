@@ -6,7 +6,7 @@
 
     <groupId>org.ven</groupId>
     <artifactId>mavenreleasetogithub</artifactId>
-    <version>1.2</version>
+    <version>1.2-SNAPSHOT</version>
     <dependencies>
         <dependency>
             <groupId>org.slf4j</groupId>
