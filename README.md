@@ -155,5 +155,22 @@ can run arbitrary commands :)
 
 
 
-Resources:
+
+Resources plugin:
 Replace text from POM files.
+
+
+Surefire Plugin: test (JUnit) 
+
+Jar Plugin -Manifest Customization
+
+
+Maven Repositories:
+settings.xml file
+Maven Security settings.
+
+
+
+
+
+
