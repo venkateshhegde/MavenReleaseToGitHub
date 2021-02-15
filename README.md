@@ -152,3 +152,8 @@ Spring Boot plugin — compiles your
 Spring Boot app, build an executable fat jar.
 Exec — amazing general purpose plugin,
 can run arbitrary commands :) 
+
+
+
+Resources:
+Replace text from POM files.
